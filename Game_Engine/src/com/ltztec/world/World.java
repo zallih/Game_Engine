@@ -141,9 +141,8 @@ public class World {
 		int xstart = Camera.x >> 6;
 		int ystart = Camera.y >> 6;
 
-		int xfinal = xstart + (Game.WIDTH >> 4);
-		int yfinal = ystart + (Game.HEIGHT >> 4);
-
+		int xfinal = xstart + (Game.WIDTH >> 2);
+		int yfinal = ystart + (Game.HEIGHT >> 2);
 		for (int xx = xstart; xx <= xfinal; xx++) {
 			for (int yy = ystart; yy <= yfinal; yy++) {
 				if (xx < 0 || yy < 0 || xx >= WIDTH || yy >= HEIGHT) {
