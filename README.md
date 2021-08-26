@@ -35,6 +35,8 @@ Isso tudo significa que é possível criar um game do zero de maneira mais simpl
   
   D - Direita
   
+  B - Salvar
+  
   ESC - Pause
   
   Atirar - Espaço
