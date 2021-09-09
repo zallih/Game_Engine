@@ -20,6 +20,8 @@ Isso tudo significa que é possível criar um game do zero de maneira mais simpl
   </p>
 
 <div>
+    <img align="right" alt="zallih" width="120" src="https://cdn.discordapp.com/attachments/882354770709479427/885547375156944906/my-octocat-1631200526625.png">
+
   <h2>Sobre o jogo</h2>
   
   Essa é a engine que eu criei do zero!
